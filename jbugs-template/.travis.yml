@@ -6,7 +6,6 @@ addons:
     organization: "Sorea Sanziana"
     branches:
       - master
-      - develop
 notifications:
   email: false
   on_success: never
